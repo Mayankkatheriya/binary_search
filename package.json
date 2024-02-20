@@ -1,0 +1,15 @@
+{
+  "name": "binary_search_mayank",
+  "version": "1.0.0",
+  "description": "Search any value in array by binary method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Search",
+    "array"
+  ],
+  "author": "Mayank Gupta",
+  "license": "ISC"
+}
